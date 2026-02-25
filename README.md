@@ -15,13 +15,15 @@ Flager is a web reconnaissance tool written in Go that helps you discover hidden
 ## How To us
 
 Download Pre Build file With You Device Compatible 
-[Download](https://Root.k/rells)
+[Download](https://github.com/ruwanth2754/Flager/releases/tag/v1.0.0)
 
 
 ``` bash
+tar -xf filename.tar.xz
 chmod +x flager
 ./flager -ip google.com -status 200,404,403,500 -file ./word.txt
 ```
+filename is you download zip file
 
 ## 🏢Build
 
@@ -51,16 +53,11 @@ bash install.sh
 
 
 
-::: success 
-Cred By Ruwantha Amarawasha
-::: 
+> [!NOTE]
+> Cred By Ruwantha Amarawasha
 
-::: warning 
-report some  [Issue](https://issues.con)
-
-::: 
-
-
+> [!WARNING]
+> report some  [Issue](https://issues.con)
 ---
 
 <div align="center">
